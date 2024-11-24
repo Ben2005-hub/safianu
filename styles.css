@@ -1,0 +1,30 @@
+body {
+    background-color: #f8f8f8;
+}
+
+img {
+  width: 100%;
+  max-width: 500px; 
+  height: auto; 
+  border-radius: 8px; 
+  box-shadow: 0 4px 8px rgba(209, 174, 174, 0.1); 
+  object-fit: cover; 
+  display: block; 
+  margin: 0 auto; 
+}
+section {
+    background-color: black;
+    padding: 40px 20px;
+    text-align: center;
+  }
+
+  body {
+    background-image: url('https://media.istockphoto.com/id/1336271758/photo/programming-source-code-on-digital-screen-software-developer-and-internet-programming-html.webp?a=1&b=1&s=612x612&w=0&k=20&c=oZ_71AQHS0VkVY265J44pQ5F8XvXwaZq3HV5BUGiqNE=');
+    background-size: cover; 
+    background-position: center center; 
+    background-attachment: fixed;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    color: white; 
+    font-weight: bolds;
+  }
